@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalhando em: Trabalho de POO: Agência de Võos
 - 🌱 Atualmente Aprendendo: C#, HTML, CSS, JAVA, PYTHON
 - 📫 Entre em Contato: l.bryan.silva25@gmail.com (ou pelo insta braia.exe)
-- 😄 Pronomes: Ele/He
+- 🦇 Pronomes: Ele/He
 
 ##
 
@@ -14,6 +14,8 @@ Comecei a Estudar Programação 2022 no Curso de Análise e Desenvolvimento de S
   <img align="center" height="280em" src="https://github-readme-stats.vercel.app/api?username=BryanQuintas&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
   <!-- img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanQuintas&layout=compact&langs_count=6&theme=neon"/>
   </div -->
+
+  <!-- ![Snake animation](https://github.com/BryanQuintas/BryanQuintas/blob/output/github-contribution-grid-snake.svg) -->
    
 ##
 <div style="display: inline_block"><br>
@@ -32,7 +34,7 @@ Comecei a Estudar Programação 2022 no Curso de Análise e Desenvolvimento de S
 <div> 
   <a href="https://instagram.com/braia.exe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-bryan-quintas-b51424232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://twitch.tv/batetacolada/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white target="_blank"></a>
+  <a href="https://twitch.tv/batetacolada/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 
 </div>
 
