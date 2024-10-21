@@ -9,8 +9,8 @@ Comcei a Estudar Programação 2022 no Curso de Análise e Desenvolvimento de Si
 
  <div>
   <a href="https://github.com/BryanQuintas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BryanQuintas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanQuintas&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BryanQuintas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanQuintas&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
  
  <br>
