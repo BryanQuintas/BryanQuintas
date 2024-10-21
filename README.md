@@ -18,6 +18,9 @@ Comecei a Estudar Programação 2022 no Curso de Análise e Desenvolvimento de S
   <!-- ![Snake animation](https://github.com/BryanQuintas/BryanQuintas/blob/output/github-contribution-grid-snake.svg) -->
    
 ##
+
+### Linguagem que Ultilizo:
+
 <div style="display: inline_block"><br>
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -29,9 +32,8 @@ Comecei a Estudar Programação 2022 no Curso de Análise e Desenvolvimento de S
  
 ##
  
-### Redes Sociais
+<div>
  
-<div> 
   <a href="https://instagram.com/braia.exe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-bryan-quintas-b51424232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitch.tv/batetacolada/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
