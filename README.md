@@ -1,4 +1,14 @@
-<img align="left" src="./src/ditto.gif" width="50"> <h1> *_⚜ Bem-Vindos! ⚜_* </h1> <img align="right" src="./src/ditto.gif" width="50">
+<p align="center">
+  <img src="./src/ditto.gif" width="50">
+</p>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Capriola&size=30&duration=3000&pause=960&color=00E6D0&center=true&vCenter=true&width=435&lines=%E2%8A%B9+⚜+Bem+Vindos+ao+Meu+Git!+⚜+%E2%8A%B9" alt="Typing SVG">
+  </a>
+</div>
+
+##
 
 <br>
 
