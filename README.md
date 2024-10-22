@@ -17,8 +17,8 @@
 
 <div>
   <a href="https://www.linkedin.com/in/lucas-bryan-quintas/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0072b1&color:FFF" target="_blank"></a>
+  <a href="mailto:l.bryan.silva25@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=  &color:FFF" target="_blank"></a>
   <a href="https://www.instagram.com/braia.exe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor= &color:FFF" target="_blank"></a>
-  <a href="https://twitch.tv/batetacolada/" target="_blank"><img src="https://img.shields.io/badge/-Twitch-000?style=for-the-badge&logo=twitch&logoColor=9146FF&color:FFF" target="_blank"></a>
 </div>
 
 ##
