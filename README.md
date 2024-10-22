@@ -1,10 +1,4 @@
- <img align="left" alt="" src="./src/ditto.gif" width="50" height="50">
-
-### ⚜ Bem-Vindos! ⚜ 
-
- <!-- <img align="right" alt="" src="./scr/ditto.gif" width="50" height="50"> -->
-
-##
+<img align="left" src="./src/ditto.gif" width="50"> <h1> *_⚜ Bem-Vindos! ⚜_* </h1> <img align="right" src="./src/ditto.gif" width="50">
 
 <br>
 
@@ -21,9 +15,11 @@
  
 - 🦇 Pronomes: Ele/He
 
-<br>
-
-<br>
+<div>
+  <a href="https://www.linkedin.com/in/lucas-bryan-quintas/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0072b1&color:FFF" target="_blank"></a>
+  <a href="https://www.instagram.com/braia.exe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor= &color:FFF" target="_blank"></a>
+  <a href="https://twitch.tv/batetacolada/" target="_blank"><img src="https://img.shields.io/badge/-Twitch-000?style=for-the-badge&logo=twitch&logoColor=9146FF&color:FFF" target="_blank"></a>
+</div>
 
 ##
 
@@ -36,20 +32,15 @@
   </div>
 
 <picture align="center">
- 
-![Snake animation](https://github.com/BryanQuintas/BryanQuintas/blob/output/github-contribution-
-grid-snake.svg)
-
-![readme](https://github-readme-stats.vercel.app/api/pin/? username=BryanQuintas&repo=BryanQuintas&theme=neon)]
-(https://github.com/BryanQuintas/BryanQuintas)
- 
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BryanQuintas/BryanQuintas/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BryanQuintas/BryanQuintas/output/github-contribution-grid-snake.svg">
 </picture>
    
 ##
 
-### 🌕 Linguagem que Ultilizo 🌕
+<img align="right" vertical-align="middle" src="./src/dipper-fall.gif" width="170">
 
-  <img align="right" vertical-align="middle" src="./src/dipper-fall.gif" width="170">
+### 🌕 Linguagem que Ultilizo 🌕
 
 <div style="display: inline_block"><br>
   <img align="center" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
@@ -60,14 +51,6 @@ grid-snake.svg)
 </div>
 
 ##
- 
-<div>
- 
-  <a href="https://instagram.com/braia.exe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-bryan-quintas-b51424232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://twitch.tv/batetacolada/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-
-</div>
 
 
 <!-- 👯 I’m looking to collaborate on ...
