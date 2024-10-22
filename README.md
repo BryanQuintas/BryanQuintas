@@ -13,7 +13,7 @@
 - 🔭 Atualmente Trabalhando em: Trabalho de POO: Agência de Võos
   
   
-- 🌱 Atualmente Aprendendo: C#, HTML, CSS, JAVA, PYTHON
+- 🌱 Atualmente Aprendendo: C#, JAVA, HTML, CSS, JavaScript
   
  
 - 📫 Entre em Contato: l.bryan.silva25@gmail.com (ou pelo insta braia.exe)
@@ -36,16 +36,20 @@
   </div>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BryanQuintas/BryanQuintas/output/github-contribution-grid-snake-neon.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BryanQuintas/BryanQuintas/output/github-contribution-grid-snake-neon.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BryanQuintas/BryanQuintas/output/github-contribution-grid-snake.svg">
+ 
+![Snake animation](https://github.com/BryanQuintas/BryanQuintas/blob/output/github-contribution-
+grid-snake.svg)
+
+![readme](https://github-readme-stats.vercel.app/api/pin/? username=BryanQuintas&repo=BryanQuintas&theme=neon)]
+(https://github.com/BryanQuintas/BryanQuintas)
+ 
 </picture>
    
 ##
 
-  <img align="right" vertical-align="middle" alt="" src="/src/dipper-fall.gif" width="170">
-
 ### 🌕 Linguagem que Ultilizo 🌕
+
+  <img align="right" vertical-align="middle" src="./src/dipper-fall.gif" width="170">
 
 <div style="display: inline_block"><br>
   <img align="center" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
