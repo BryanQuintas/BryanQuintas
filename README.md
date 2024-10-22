@@ -12,20 +12,20 @@
 
 <br>
 
-<img align="right" alt="" src="./src/totoro.gif" width="400">
+<img align="left" alt="" src="./src/totoro.gif" width="400">
 
-- 🔭 Atualmente Trabalhando em: Trabalho de POO: Agência de Võos
-  
-  
-- 🌱 Atualmente Aprendendo: C#, JAVA, HTML, CSS, JavaScript
+| • 🔭 Atualmente Trabalhando em: Trabalho de POO: Agência de Võos
+
+ 
+| • 🌱 Atualmente Aprendendo: C#, JAVA, HTML, CSS, JavaScript
   
  
-- 📫 Entre em Contato: l.bryan.silva25@gmail.com (ou pelo insta braia.exe)
+| • 📫 Entre em Contato: l.bryan.silva25@gmail.com (ou pelo insta braia.exe)
   
  
-- 🦇 Pronomes: Ele/He
-
-<div>
+| • 🦇 Pronomes: Ele/He
+  
+<div align="right">
   <a href="https://www.linkedin.com/in/lucas-bryan-quintas/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0072b1&color:FFF" target="_blank"></a>
   <a href="mailto:l.bryan.silva25@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=  &color:FFF" target="_blank"></a>
   <a href="https://www.instagram.com/braia.exe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor= &color:FFF" target="_blank"></a>
