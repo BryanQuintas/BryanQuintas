@@ -1,4 +1,4 @@
- <img align="left" alt="" src="./scr/ditto.gif" width="50" height="50">
+ <img align="left" alt="" src="./src/ditto.gif" width="50" height="50">
 
 ### ⚜ Bem-Vindos! ⚜ 
 
@@ -8,7 +8,7 @@
 
 <br>
 
-<img align="right" alt="" src="./scr/totoro.gif" width="400">
+<img align="right" alt="" src="./src/totoro.gif" width="400">
 
 - 🔭 Atualmente Trabalhando em: Trabalho de POO: Agência de Võos
   
@@ -43,7 +43,7 @@
    
 ##
 
-  <img align="right" vertical-align="middle" alt="" src="/scr/dipper-fall.gif" width="170">
+  <img align="right" vertical-align="middle" alt="" src="/src/dipper-fall.gif" width="170">
 
 ### 🌕 Linguagem que Ultilizo 🌕
 
