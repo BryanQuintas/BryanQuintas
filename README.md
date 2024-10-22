@@ -1,14 +1,33 @@
-### ⚜ Bem-Vindos! ⚜ <br>
+ <img align="left" alt="" src="./scr/ditto.gif" width="50" height="50">
+
+### ⚜ Bem-Vindos! ⚜ 
+
+ <!-- <img align="right" alt="" src="./scr/ditto.gif" width="50" height="50"> -->
 
 ##
+
+<br>
+
+<img align="right" alt="" src="./scr/totoro.gif" width="400">
+
 - 🔭 Atualmente trabalhando em: Trabalho de POO: Agência de Võos
+  
+  
 - 🌱 Atualmente Aprendendo: C#, HTML, CSS, JAVA, PYTHON
+  
+ 
 - 📫 Entre em Contato: l.bryan.silva25@gmail.com (ou pelo insta braia.exe)
+  
+ 
 - 🦇 Pronomes: Ele/He
 
+<br>
+
+<br>
+
 ##
 
-Comecei a Estudar Programação 2022 no Curso de Análise e Desenvolvimento de Sistemas da PUC-Minas
+### Comecei a Estudar Programação 2022 no Curso de Análise e Desenvolvimento de Sistemas da PUC-Minas
 
  <div><br>
   <a href="https://github.com/BryanQuintas">
@@ -32,7 +51,7 @@ Comecei a Estudar Programação 2022 no Curso de Análise e Desenvolvimento de S
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
   <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
- 
+  <img align="right" width="50" height="50" alt="" src="./scr/dipper-fall.gif">
 </div>
 
 <br>
