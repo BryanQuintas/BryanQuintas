@@ -43,6 +43,8 @@
    
 ##
 
+  <img align="right" vertical-align="middle" alt="" src="/scr/dipper-fall.gif" width="170">
+
 ### 🌕 Linguagem que Ultilizo 🌕
 
 <div style="display: inline_block"><br>
@@ -51,10 +53,7 @@
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
   <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-  <img align="right" width="50" height="50" alt="" src="./scr/dipper-fall.gif">
 </div>
-
-<br>
 
 ##
  
