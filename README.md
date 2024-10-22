@@ -10,7 +10,7 @@
 
 <img align="right" alt="" src="./scr/totoro.gif" width="400">
 
-- 🔭 Atualmente trabalhando em: Trabalho de POO: Agência de Võos
+- 🔭 Atualmente Trabalhando em: Trabalho de POO: Agência de Võos
   
   
 - 🌱 Atualmente Aprendendo: C#, HTML, CSS, JAVA, PYTHON
