@@ -26,7 +26,7 @@
 | • 🦇 Pronomes: Ele/He
   
 <div align="right">
-  <a href="https://www.linkedin.com/in/lucas-bryan-quintas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0072b1&color:FFF" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-bryan-quintas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white&color:FFF" target="_blank"></a>
   <a href="mailto:l.bryan.silva25@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=%20&color:FFF"%20target="_blank"
   <a href="https://www.instagram.com/_ubraia/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=e4405f&color:FFF" target="_blank"></a>
 
