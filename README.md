@@ -34,7 +34,7 @@
 
 ##
 
-### Comecei a Estudar Programação 2022 no Curso de Análise e Desenvolvimento de Sistemas da PUC-Minas
+#### Comecei a Estudar Programação 2022 no Curso de "Análise e Desenvolvimento de Sistemas" (ADS) na PUC-Minas!
 
  <div><br>
   <a href="https://github.com/BryanQuintas">
