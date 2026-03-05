@@ -14,7 +14,7 @@
 
 <img align="left" alt="" src="./src/totoro.gif" width="400">
 
-| • 🔭 Atualmente Trabalhando em: Trabalho de POO: Agência de Võo
+| • 🔭 Atualmente Trabalhando em: N/D
 
  
 | • 🌱 Atualmente Aprendendo: C#, JAVA, HTML, CSS, JavaScript
