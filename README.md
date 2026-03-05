@@ -39,7 +39,6 @@
  <div><br>
   <a href="https://github.com/BryanQuintas">
   <img height="160em" width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=BryanQuintas&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BryanQuintas&show_icons=true&theme=tokyonight"/>
   <img height="160em" width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanQuintas&layout=compact&langs_count=6&theme=neon"/>
   </div>
 
